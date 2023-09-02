@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arturorv7.github.io/mycorner/posts/examplepost/</loc>
-    <lastmod>2023-09-01T16:09:52-06:00</lastmod>
-  </url><url>
     <loc>https://arturorv7.github.io/mycorner/</loc>
     <lastmod>2023-09-01T16:09:52-06:00</lastmod>
   </url><url>
@@ -12,6 +9,9 @@
     <lastmod>2023-09-01T16:09:52-06:00</lastmod>
   </url><url>
     <loc>https://arturorv7.github.io/mycorner/tags/</loc>
+    <lastmod>2023-09-01T16:09:52-06:00</lastmod>
+  </url><url>
+    <loc>https://arturorv7.github.io/mycorner/posts/examplepost/</loc>
     <lastmod>2023-09-01T16:09:52-06:00</lastmod>
   </url><url>
     <loc>https://arturorv7.github.io/mycorner/tags/untagged/</loc>
