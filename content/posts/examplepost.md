@@ -18,8 +18,6 @@ This is a short but interesting video that summarizes the history and the import
 
 It could be said that both software and software testing were born together. In 1950, the same year that a computer scientist known as Tom Kilburn wrote the first piece of software using machine code, the Turing Test was introduced as well. Ever since then, several testing techniques have been introduced to keep up with the ramping speed and efficiency of software and software development. Just a year later, Joseph Juran wrote about the importance of software testing and quality assurance in his book "Quality Control Handbook."
 
-![book cover](/images/software_automation.png)
-
 The first book on software automation, "Software Test Automation: Effective Use of Test Execution Tools," would be written nearly 50 years later by Mark Fewster and Dorothy Graham. This marked a turning point in the gradual evolution of software testing. Throughout history, software testing has steadily evolved from manual methods and processes to automated and refined methods and practices that have become industry standards. Testing is now just as important as the actual development of software itself. In an ever-changing world where software errors can have unimaginable consequences, it is more important than ever to do everything to ensure the quality, reliability, and security of software.
 
 **References**
