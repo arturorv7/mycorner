@@ -20,11 +20,12 @@
 
 
 <video width = 100% controls>
-  <source src = "/videos/SoftwareTesting.mp4" type = "video/mp4">
+  <source src = "/videos/SoftwareTesting.webm" type = "video/webm">
   Your browser does not support the video tag.
 </video>
 
 
+<p>This is a short but interesting video that summarizes the history and the importance of software testing pretty well. I&rsquo;d recommend watching the whole video, but the first three or so minutes get the point across just fine, in my opinion. I also liked the short segment &ldquo;Testing is an investment&rdquo; about four minutes into the video. I think this phrase is also good at summarizing the importance of testing in software systems, as the cost and time investment involved in software testing can sometimes cause us to cut corners, despite the potential future drawbacks.</p>
 <p>It could be said that both software and software testing were born together. In 1950, the same year that a computer scientist known as Tom Kilburn wrote the first piece of software using machine code, the Turing Test was introduced as well. Ever since then, several testing techniques have been introduced to keep up with the ramping speed and efficiency of software and software development. Just a year later, Joseph Juran wrote about the importance of software testing and quality assurance in his book &ldquo;Quality Control Handbook.&rdquo;</p>
 <p><strong>References</strong></p>
 <p><a href="https://dogq.io/blog/a-brief-history-of-software-testing/">https://dogq.io/blog/a-brief-history-of-software-testing/</a>
