@@ -15,8 +15,8 @@
             <pubDate>Fri, 01 Sep 2023 16:09:52 -0600</pubDate>
             
             <guid>https://arturorv7.github.io/mycorner/posts/examplepost/</guid>
-            <description>This is my super awesome post for my class with Ken Bauer</description>
-            <content type="html"><![CDATA[<p>This is my super awesome post for my class with Ken Bauer</p>
+            <description>It&amp;rsquo;s hard to talk about the history of software, and about software and programming in general, without at least touching on the subject of testing. In fact, it&amp;rsquo;s hard for me to think about coding even a very simple program without including some sort of test in the process. This has been the case for a long time, probably for as long as I&amp;rsquo;ve been writing code. From making sure that my scripts would not cause my asset-flipped ROBLOX game to implode, to stressing over the several cases my professors could use to break my program after I turn it in.</description>
+            <content type="html"><![CDATA[<p>It&rsquo;s hard to talk about the history of software, and about software and programming in general, without at least touching on the subject of testing. In fact, it&rsquo;s hard for me to think about coding even a very simple program without including some sort of test in the process. This has been the case for a long time, probably for as long as I&rsquo;ve been writing code. From making sure that my scripts would not cause my asset-flipped ROBLOX game to implode, to stressing over the several cases my professors could use to break my program after I turn it in. Obviously, in these cases, the stakes are much lower than they would be for a piece of software intended for commercial use. While not testing my code could lead to me getting a low grade on an assignment, the developers of a program meant to provide an important service or store the sensitive data of its users can&rsquo;t afford the luxury of shipping an untested, or not properly tested, product.</p>
 ]]></content>
         </item>
         
