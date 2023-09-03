@@ -18,3 +18,11 @@ It's hard to talk about the history of software, and about software and programm
 </video>
 
 {{</rawhtml>}}
+
+It could be said that both software and software testing were born together. In 1950, the same year that a computer scientist known as Tom Kilburn wrote the first piece of software using machine code, the Turing Test was introduced as well. Ever since then, several testing techniques have been introduced to keep up with the ramping speed and efficiency of software and software development. Just a year later, Joseph Juran wrote about the importance of software testing and quality assurance in his book "Quality Control Handbook." 
+
+**References**
+
+https://dogq.io/blog/a-brief-history-of-software-testing/
+https://www.geeksforgeeks.org/history-of-software-testing/
+https://www.youtube.com/watch?v=EwK2Msg3FLI&ab_channel=VersaTest
